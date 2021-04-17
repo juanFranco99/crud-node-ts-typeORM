@@ -1,7 +1,7 @@
 {
     "type": "postgres",
     "host": "localhost",
-    "port": 5433,
+    "port": 5432,
     "username": "TU_NOMBRE_DE_USUARIO",
     "password": "TU_CONTRASENHA",
     "database": "ts_node",
