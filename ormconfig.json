@@ -2,8 +2,8 @@
     "type": "postgres",
     "host": "localhost",
     "port": 5433,
-    "username": "postgres",
-    "password": "1234",
+    "username": "TU_NOMBRE_DE_USUARIO",
+    "password": "TU_CONTRASENHA",
     "database": "ts_node",
     "entities": ["dist/entities/**/*.js"],
     "synchronize": false
